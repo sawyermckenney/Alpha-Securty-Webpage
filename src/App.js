@@ -8,7 +8,7 @@ import Contact from './components/pages/contact';
 import Support from './components/pages/support';
 function App() {
   return (
-    <Router>
+    <Router basename="/Alpha-Securty-Webpage">
       <NavBar />
       <Routes>
         <Route path="/" element={<Home />} />
