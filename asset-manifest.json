@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Alpha-Securty-Webpage/static/css/main.405b838b.css",
+    "main.js": "/Alpha-Securty-Webpage/static/js/main.162d99f7.js",
+    "static/media/globeVideo.mp4": "/Alpha-Securty-Webpage/static/media/globeVideo.e3bbecfb83e1007ecdec.mp4",
+    "static/media/airQuality.png": "/Alpha-Securty-Webpage/static/media/airQuality.b22e402bfcc1aa6652a4.png",
+    "static/media/maroonBells.jpg": "/Alpha-Securty-Webpage/static/media/maroonBells.e67e2baab510a88a3b32.jpg",
+    "static/media/unifiSwitch.jpg": "/Alpha-Securty-Webpage/static/media/unifiSwitch.994a2693ec582026d049.jpg",
+    "static/media/acessControl.jpg": "/Alpha-Securty-Webpage/static/media/acessControl.fcca615a3d8dcf13a15a.jpg",
+    "static/media/services.jpg": "/Alpha-Securty-Webpage/static/media/services.b26e4a9f6bc8a5fccbf2.jpg",
+    "static/media/techConsult.jpg": "/Alpha-Securty-Webpage/static/media/techConsult.245016825a5b0072734c.jpg",
+    "static/media/techSupport.jpg": "/Alpha-Securty-Webpage/static/media/techSupport.80ff243f3ee886cc167f.jpg",
+    "static/media/boulder.jpg": "/Alpha-Securty-Webpage/static/media/boulder.b1b4b17a6c3763aa9288.jpg",
+    "static/media/camera.jpg": "/Alpha-Securty-Webpage/static/media/camera.b715e627f339b1bd055e.jpg",
+    "static/media/code.jpg": "/Alpha-Securty-Webpage/static/media/code.109790ee0c4f3b168dbf.jpg",
+    "static/media/server.jpg": "/Alpha-Securty-Webpage/static/media/server.32b558f4fc716c3332c8.jpg",
+    "static/media/fireWall.jpg": "/Alpha-Securty-Webpage/static/media/fireWall.4810dc0fedff63aea2e7.jpg",
+    "static/media/Alpha-White.png": "/Alpha-Securty-Webpage/static/media/Alpha-White.856b52827aa96437a5d0.png",
+    "index.html": "/Alpha-Securty-Webpage/index.html",
+    "main.405b838b.css.map": "/Alpha-Securty-Webpage/static/css/main.405b838b.css.map",
+    "main.162d99f7.js.map": "/Alpha-Securty-Webpage/static/js/main.162d99f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.405b838b.css",
+    "static/js/main.162d99f7.js"
+  ]
+}
