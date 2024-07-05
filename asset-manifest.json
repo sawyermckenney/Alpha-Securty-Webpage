@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Alpha-Securty-Webpage/static/css/main.405b838b.css",
-    "main.js": "/Alpha-Securty-Webpage/static/js/main.162d99f7.js",
+    "main.css": "/Alpha-Securty-Webpage/static/css/main.4e8a87c1.css",
+    "main.js": "/Alpha-Securty-Webpage/static/js/main.da04c04d.js",
     "static/media/globeVideo.mp4": "/Alpha-Securty-Webpage/static/media/globeVideo.e3bbecfb83e1007ecdec.mp4",
     "static/media/airQuality.png": "/Alpha-Securty-Webpage/static/media/airQuality.b22e402bfcc1aa6652a4.png",
     "static/media/maroonBells.jpg": "/Alpha-Securty-Webpage/static/media/maroonBells.e67e2baab510a88a3b32.jpg",
@@ -17,11 +17,11 @@
     "static/media/fireWall.jpg": "/Alpha-Securty-Webpage/static/media/fireWall.4810dc0fedff63aea2e7.jpg",
     "static/media/Alpha-White.png": "/Alpha-Securty-Webpage/static/media/Alpha-White.856b52827aa96437a5d0.png",
     "index.html": "/Alpha-Securty-Webpage/index.html",
-    "main.405b838b.css.map": "/Alpha-Securty-Webpage/static/css/main.405b838b.css.map",
-    "main.162d99f7.js.map": "/Alpha-Securty-Webpage/static/js/main.162d99f7.js.map"
+    "main.4e8a87c1.css.map": "/Alpha-Securty-Webpage/static/css/main.4e8a87c1.css.map",
+    "main.da04c04d.js.map": "/Alpha-Securty-Webpage/static/js/main.da04c04d.js.map"
   },
   "entrypoints": [
-    "static/css/main.405b838b.css",
-    "static/js/main.162d99f7.js"
+    "static/css/main.4e8a87c1.css",
+    "static/js/main.da04c04d.js"
   ]
 }
