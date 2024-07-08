@@ -1,0 +1,40 @@
+.body {
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 20px;
+    height: 20vh;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.download-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    background-color: #fff;
+    padding: 10px 20px;
+    border: 2px solid #007bff; /* Blue border */
+    border-radius: 8px;
+    color: #007bff; /* Blue text */
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.download-link:hover {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.TeamViewer-Logo { 
+    width: 100px; /* Adjusted width */
+    margin-right: 15px; /* Space between image and text */
+}
+
+.download-link span {
+    font-size: 1rem; /* Adjust font size as needed */
+    text-align: center;
+}

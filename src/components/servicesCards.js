@@ -5,8 +5,8 @@ import cameraImage from './images/camera.jpg'
 import consultingImage from './images/techConsult.jpg'
 import networkingImage from './images/unifiSwitch.jpg'
 import support from './images/techSupport.jpg'
-import accessControl from './images/acessControl.jpg'
-import airQuaility from './images/airQuality.png'
+import accessControl from './images/accessControl.jpg'
+import airQuality from './images/airQuality.png'
 import firewall from './images/fireWall.jpg'
 
 function serviceCards() {
@@ -51,11 +51,11 @@ function serviceCards() {
             <CardItem
               src={firewall}
               text= 'Enhance your network defense and remote access capabilities with advanced firewall and VPN solutions. These systems provide robust protection against external threats and secure connectivity for remote employees. Designed for seamless integration and straightforward management, they are ideal for safeguarding sensitive data and ensuring business continuity.'
-              label='Firewall VPN Solutions'
+              label='Firewall/VPN Solutions'
               path=''
             />
             <CardItem
-              src={airQuaility}
+              src={airQuality}
               text='Enhance indoor environments with advanced Air Quality Control Systems. Designed for both residential and commercial use, our systems efficiently monitor and improve air quality using cutting-edge sensors and filtration technology.'
               label='Indoor Air Quality Monitoring'
               path=''

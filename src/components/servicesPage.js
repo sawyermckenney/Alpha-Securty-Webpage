@@ -26,7 +26,7 @@ function ServiceCard({ title, description, image }) {
         Access Control <i className="fas fa-chevron-down"></i>
         </Link>
         <Link to="cardRow2" smooth={true} duration={500} className="btn btn-primary">
-        Firewall VPN Solutions <i className="fas fa-chevron-down"></i>
+        Firewall/VPN Solutions <i className="fas fa-chevron-down"></i>
         </Link>
         <Link to="cardRow2" smooth={true} duration={500} className="btn btn-primary">
         Indoor Air Quality Monitoring <i className="fas fa-chevron-down"></i>
