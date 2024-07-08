@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Alpha-Securty-Webpage/static/css/main.4e8a87c1.css",
-    "main.js": "/Alpha-Securty-Webpage/static/js/main.1ddc697d.js",
+    "main.css": "/Alpha-Securty-Webpage/static/css/main.75b220b6.css",
+    "main.js": "/Alpha-Securty-Webpage/static/js/main.d7048555.js",
     "static/media/globeVideo.mp4": "/Alpha-Securty-Webpage/static/media/globeVideo.e3bbecfb83e1007ecdec.mp4",
     "static/media/airQuality.png": "/Alpha-Securty-Webpage/static/media/airQuality.b22e402bfcc1aa6652a4.png",
     "static/media/maroonBells.jpg": "/Alpha-Securty-Webpage/static/media/maroonBells.e67e2baab510a88a3b32.jpg",
@@ -16,12 +16,13 @@
     "static/media/server.jpg": "/Alpha-Securty-Webpage/static/media/server.32b558f4fc716c3332c8.jpg",
     "static/media/fireWall.jpg": "/Alpha-Securty-Webpage/static/media/fireWall.4810dc0fedff63aea2e7.jpg",
     "static/media/Alpha-White.png": "/Alpha-Securty-Webpage/static/media/Alpha-White.856b52827aa96437a5d0.png",
+    "static/media/team-viewer-logo.png": "/Alpha-Securty-Webpage/static/media/team-viewer-logo.781e7bac128eeca269be.png",
     "index.html": "/Alpha-Securty-Webpage/index.html",
-    "main.4e8a87c1.css.map": "/Alpha-Securty-Webpage/static/css/main.4e8a87c1.css.map",
-    "main.1ddc697d.js.map": "/Alpha-Securty-Webpage/static/js/main.1ddc697d.js.map"
+    "main.75b220b6.css.map": "/Alpha-Securty-Webpage/static/css/main.75b220b6.css.map",
+    "main.d7048555.js.map": "/Alpha-Securty-Webpage/static/js/main.d7048555.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e8a87c1.css",
-    "static/js/main.1ddc697d.js"
+    "static/css/main.75b220b6.css",
+    "static/js/main.d7048555.js"
   ]
 }
