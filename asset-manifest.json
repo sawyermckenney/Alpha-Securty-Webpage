@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/Alpha-Securty-Webpage/static/css/main.75b220b6.css",
-    "main.js": "/Alpha-Securty-Webpage/static/js/main.d7048555.js",
-    "static/media/globeVideo.mp4": "/Alpha-Securty-Webpage/static/media/globeVideo.e3bbecfb83e1007ecdec.mp4",
+    "main.css": "/Alpha-Securty-Webpage/static/css/main.4c10ea15.css",
+    "main.js": "/Alpha-Securty-Webpage/static/js/main.00244475.js",
     "static/media/airQuality.png": "/Alpha-Securty-Webpage/static/media/airQuality.b22e402bfcc1aa6652a4.png",
     "static/media/maroonBells.jpg": "/Alpha-Securty-Webpage/static/media/maroonBells.e67e2baab510a88a3b32.jpg",
     "static/media/unifiSwitch.jpg": "/Alpha-Securty-Webpage/static/media/unifiSwitch.994a2693ec582026d049.jpg",
@@ -12,17 +11,18 @@
     "static/media/techSupport.jpg": "/Alpha-Securty-Webpage/static/media/techSupport.80ff243f3ee886cc167f.jpg",
     "static/media/boulder.jpg": "/Alpha-Securty-Webpage/static/media/boulder.b1b4b17a6c3763aa9288.jpg",
     "static/media/camera.jpg": "/Alpha-Securty-Webpage/static/media/camera.b715e627f339b1bd055e.jpg",
+    "static/media/homePage.jpg": "/Alpha-Securty-Webpage/static/media/homePage.fdd0af151526469c64c9.jpg",
     "static/media/code.jpg": "/Alpha-Securty-Webpage/static/media/code.109790ee0c4f3b168dbf.jpg",
     "static/media/server.jpg": "/Alpha-Securty-Webpage/static/media/server.32b558f4fc716c3332c8.jpg",
     "static/media/fireWall.jpg": "/Alpha-Securty-Webpage/static/media/fireWall.4810dc0fedff63aea2e7.jpg",
     "static/media/Alpha-White.png": "/Alpha-Securty-Webpage/static/media/Alpha-White.856b52827aa96437a5d0.png",
     "static/media/team-viewer-logo.png": "/Alpha-Securty-Webpage/static/media/team-viewer-logo.781e7bac128eeca269be.png",
     "index.html": "/Alpha-Securty-Webpage/index.html",
-    "main.75b220b6.css.map": "/Alpha-Securty-Webpage/static/css/main.75b220b6.css.map",
-    "main.d7048555.js.map": "/Alpha-Securty-Webpage/static/js/main.d7048555.js.map"
+    "main.4c10ea15.css.map": "/Alpha-Securty-Webpage/static/css/main.4c10ea15.css.map",
+    "main.00244475.js.map": "/Alpha-Securty-Webpage/static/js/main.00244475.js.map"
   },
   "entrypoints": [
-    "static/css/main.75b220b6.css",
-    "static/js/main.d7048555.js"
+    "static/css/main.4c10ea15.css",
+    "static/js/main.00244475.js"
   ]
 }
